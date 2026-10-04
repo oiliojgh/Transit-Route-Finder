@@ -144,7 +144,7 @@ transit-route-finder/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/transit-route-finder.git
+git clone [https://github.com/<your-username>/transit-route-finder.git](https://github.com/oiliojgh/Transit-Route-Finder.git)
 cd transit-route-finder
 pip install -r requirements.txt
 ```
